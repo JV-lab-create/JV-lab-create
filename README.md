@@ -21,13 +21,13 @@ I am a learning developer, I mostly make random things that I am intrusted in. I
 
 
 
-###🌱 I’m currently learning and want to learn... <br />
+### 🌱 I’m currently learning and want to learn... <br />
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,githubactions,java,powershell,&theme=dark)](https://skillicons.dev)
 
-###🔭 I’m currently working on<br />
+### 🔭 I’m currently working on<br />
 not much, mostly just random projects that I one day got intrusted in
 
-###🎮 My Favriote Games
+### 🎮 My Favriote Games
 I mostly like to play Minecraft, with mods, the mods I play are [Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway) and [CC-Tweaked](https://modrinth.com/mod/cc-tweaked)
 I like to also code computer programs with the CC-Tweaked mod too. Other than Minecraft, I have played [Roblox](https://roblox.com), I have not been very intrusted in it, I mostly only play it for ideas and
 I also make some studio games that I don't publish.
