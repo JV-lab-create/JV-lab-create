@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,lua,cs,md,react,vite,nodejs,webpack,vscode,visualstudio,npm,yarn,git,github,windows,linux,apple,raspberrypi&theme=dark)](https://skillicons.dev)
+
+
+
+###🌱 I’m currently learning
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,githubactions,java,powershell,&theme=dark)](https://skillicons.dev)
+
+###🔭 I’m currently working on
+not much, mostly just random projects that I one day got intrusted in
+
+
+
+
