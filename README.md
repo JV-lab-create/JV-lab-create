@@ -22,7 +22,7 @@ I am a learning developer, I mostly make random things that I am intrusted in. I
 
 
 **🌱 I’m currently learning and want to learn...** <br />
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,githubactions,java,powershell,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,githubactions,java,kotlin,powershell,&theme=dark)](https://skillicons.dev)
 
 **🔭 I’m currently working on** <br />
 not much, mostly just random projects that I one day got intrusted in
